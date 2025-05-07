@@ -1,73 +1,50 @@
 # Hi, I'm Kaden! 👋
 
-🎓 Senior Software Engineering student at University of Wisconsin - Eau Claire 
+🎓 Senior Software Engineering Student at the University of Wisconsin – Eau Claire  
 💡 Minor in Information Systems  
-💻 Passionate about full-stack development, applied AI, and solving real-world problems.
-📍 Aiming to live and work in the Minneapolis, MN or Madison, WI area after graduation in May of 2026.
+💻 Passionate about full-stack development, applied AI, and solving real-world problems  
+📍 Aiming to live and work in Minneapolis, MN or Madison, WI after graduation in May 2026  
 
 ---
 
-## 🚀 About Me
+## 🧑‍🦰 About Me
 
-I'm a Software Engineering student who enjoys working on new projects that I am passionate about and that are meaningful.
+I'm a software engineering student who loves building meaningful projects. I'm currently seeking internships and entry-level roles where I can grow as a developer and as a person.
 
-I'm currently seeking internships and entry-level roles where I can grow as a software engineer and as a person. I always enjoy learning new things since life is too short not to learn!
+I'm always eager to learn something new—life’s too short not to!
 
 ---
 
 ## 🔨 Current Projects
 
-### Hollow Dawn *Planned*  
- 
-A 2D post-apocalyptic RPG built with MonoGame and C#. (might change to Java) Think Stardew Valley meets Fallout: base-building, zombies, crafting, and survival.
+### 🔧 Hollow Dawn *(Planned)*  
+A 2D post-apocalyptic RPG built with MonoGame and C# (may switch to Java).  
+Think *Stardew Valley* meets *Fallout*: base-building, zombies, crafting, and survival.
 
-### WellWave *Planned*  
-A fitness app for iOS built in Swift. Tracks calories, workouts, and wellness goals with an intuitive Apple design.
+### 🧘‍♂️ WellWave *(Planned)*  
+An iOS fitness app built with Swift.  
+Tracks calories, workouts, and wellness goals with a sleek, Apple-inspired UI.
 
-### Cheese Image Classifier  *WIP*
-Research project using machine learning to classify cheese types from images. Deepened my interest in AI and computer vision.
+### 🧀 Cheese Image Classifier *(WIP)*  
+A research project using machine learning to classify cheese types from images.  
+This project sparked my deep interest in AI and computer vision.
 
 ---
 
 ## 🧠 Skills
 
-### Languages:
+### Languages
 
-**Intermediate**
+- **Advanced:** HTML  
+- **Proficient:** Java, CSS, MySQL, MS SQL  
+- **Intermediate:** C#, C, C++, JavaScript, Swift, PHP  
 
-C# (.NET) | C | C++ | JavaScript | Swift | PHP
+### Tools & Environments
 
-**Proficent**
-
-Java | CSS | MySQL | MS SQL
-
-**Advanced**
-
-HTML
-
-### Tools & Environments:
-
-**Learning**
-
-MS Power Automate
-
-**Intermediate**
-
-Git | Xcode | Visual Studio
-
-**Proficent**
-
-Power BI | MS Excel | MS Word | GitHub | VS Code
-
-### Security Tools:
-
-**Proficent**
-
-Spirion
-
-**Advanced**
-
-Nessus (Tenable) | OpenVAS
+- **Advanced:** Nessus (Tenable), OpenVAS  
+- **Proficient:** Power BI, MS Excel, MS Word, GitHub, VS Code, Spirion  
+- **Intermediate:** Git, Xcode, Visual Studio  
+- **Learning:** MS Power Automate  
 
 ---
 
@@ -75,6 +52,7 @@ Nessus (Tenable) | OpenVAS
 
 📧 Email: [kjl.con@outlook.com](mailto:kjl.con@outlook.com)  
 🔗 LinkedIn: [linkedin.com/in/kaden-leis](https://www.linkedin.com/in/kaden-leis)
+
 
 <!--
 **kadenleis/kadenleis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
