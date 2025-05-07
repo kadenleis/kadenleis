@@ -1,50 +1,73 @@
-# Hi, I'm Kaden 👋
+# Hi, I'm Kaden! 👋
 
-🎓 Junior Software Engineering student at UW–Eau Claire  
+🎓 Senior Software Engineering student at University of Wisconsin - Eau Claire 
 💡 Minor in Information Systems  
-💻 Passionate about full-stack development, applied AI, and solving real-world problems  
-📍 Aiming to live and work in the Minneapolis area after graduation
+💻 Passionate about full-stack development, applied AI, and solving real-world problems.
+📍 Aiming to live and work in the Minneapolis, MN or Madison, WI area after graduation in May of 2026.
 
 ---
 
 ## 🚀 About Me
 
-I'm a Software Engineering student who loves building tools that make life easier. Whether it’s crafting a survival RPG, analyzing cheese with machine learning, or creating full-stack web apps, I’m all about clean, efficient, and user-focused solutions.
+I'm a Software Engineering student who enjoys working on new projects that I am passionate about and that are meaningful.
 
-I'm currently seeking internships and entry-level roles where I can grow as a developer, contribute to meaningful projects, and keep pushing my limits. I’m always learning, always building, and always leveling up—whether it’s in code, fitness, or life in general.
+I'm currently seeking internships and entry-level roles where I can grow as a software engineer and as a person. I always enjoy learning new things since life is too short not to learn!
 
 ---
 
 ## 🔨 Current Projects
 
-### 🎮 Hollow Dawn *(In Progress)*  
-A 2D post-apocalyptic RPG built with MonoGame and C#.  
-Think Stardew Valley meets Fallout: base-building, zombies, crafting, and survival.
+### Hollow Dawn *Planned*  
+ 
+A 2D post-apocalyptic RPG built with MonoGame and C#. (might change to Java) Think Stardew Valley meets Fallout: base-building, zombies, crafting, and survival.
 
-### 🏋️‍♂️ WellWave *(In Progress)*  
-A fitness app for iOS built in Swift. Tracks calories, workouts, and wellness goals with an intuitive design.
+### WellWave *Planned*  
+A fitness app for iOS built in Swift. Tracks calories, workouts, and wellness goals with an intuitive Apple design.
 
-### 🧀 Cheese Image Classifier  
+### Cheese Image Classifier  *WIP*
 Research project using machine learning to classify cheese types from images. Deepened my interest in AI and computer vision.
 
 ---
 
 ## 🧠 Skills
 
-**Languages:**  
-Java • C# (.NET) • C • JavaScript • Swift • PHP • HTML/CSS
+### Languages:
 
-**Frameworks & Libraries:**  
-React • MonoGame
+**Intermediate**
 
-**Databases:**  
-MySQL • MS SQL
+C# (.NET) | C | C++ | JavaScript | Swift | PHP
 
-**Tools & Environments:**  
-VS Code • Xcode • Visual Studio • GitHub • Power BI
+**Proficent**
 
-**Security Tools:**  
-Nessus (Tenable) • OpenVAS • Spirion
+Java | CSS | MySQL | MS SQL
+
+**Advanced**
+
+HTML
+
+### Tools & Environments:
+
+**Learning**
+
+MS Power Automate
+
+**Intermediate**
+
+Git | Xcode | Visual Studio
+
+**Proficent**
+
+Power BI | MS Excel | MS Word | GitHub | VS Code
+
+### Security Tools:
+
+**Proficent**
+
+Spirion
+
+**Advanced**
+
+Nessus (Tenable) | OpenVAS
 
 ---
 
@@ -52,8 +75,6 @@ Nessus (Tenable) • OpenVAS • Spirion
 
 📧 Email: [kjl.con@outlook.com](mailto:kjl.con@outlook.com)  
 🔗 LinkedIn: [linkedin.com/in/kaden-leis](https://www.linkedin.com/in/kaden-leis)
-
-Thanks for stopping by — let’s build something awesome!
 
 <!--
 **kadenleis/kadenleis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
